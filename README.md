@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here](https://github.com/naufalf25/Stats-Preview-Card)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Live Site URL: [Click Here](https://naufalf25.github.io/Stats-Preview-Card/)
 
 ## My process
 
